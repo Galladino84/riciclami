@@ -1,0 +1,999 @@
+{
+  "Besnate": {
+    "raccolta_per_data": {
+      "2025-02-05": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-02-07": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-02-10": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-02-12": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-02-14": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-02-17": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-02-19": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-02-21": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-02-24": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-02-26": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-02-28": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-03-03": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-03-05": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-03-07": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-03-10": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-03-12": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-03-14": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-03-17": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-03-19": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-03-21": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-03-24": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-03-26": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-03-28": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-03-31": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-04-02": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-04-04": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-04-07": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-04-09": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-04-11": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-04-14": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-04-16": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-04-18": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-04-21": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-04-23": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-04-25": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-04-28": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-04-30": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-05-02": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-05-05": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-05-07": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-05-09": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-05-12": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-05-14": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-05-16": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-05-19": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-05-21": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-05-23": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-05-26": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-05-28": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-05-30": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-06-02": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-06-04": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-06-06": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-06-09": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-06-11": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-06-13": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-06-16": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-06-18": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-06-20": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-06-23": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-06-25": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-06-27": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-06-30": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-07-02": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-07-04": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-07-07": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-07-09": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-07-11": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-07-14": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-07-16": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-07-18": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-07-21": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-07-23": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-07-25": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-07-28": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-07-30": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-08-01": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-08-04": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-08-06": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-08-08": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-08-11": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-08-13": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-08-15": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ],
+      "2025-08-18": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-08-20": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-08-22": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta dei rifiuti indifferenziati",
+          "frequenza": "Bisettimanale",
+          "icona": "trash"
+        }
+      ],
+      "2025-08-25": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        },
+        {
+          "descrizione": "Raccolta del vetro",
+          "frequenza": "Settimanale",
+          "icona": "wine-bottle"
+        }
+      ],
+      "2025-08-27": [
+        {
+          "descrizione": "Raccolta della carta e cartone",
+          "frequenza": "Settimanale",
+          "icona": "fileAlt"
+        },
+        {
+          "descrizione": "Raccolta della plastica e imballaggi leggeri",
+          "frequenza": "Settimanale",
+          "icona": "recycle"
+        }
+      ],
+      "2025-08-29": [
+        {
+          "descrizione": "Raccolta dei rifiuti organici (umido)",
+          "frequenza": "Due volte a settimana",
+          "icona": "leaf"
+        }
+      ]
+    }
+  }
+}
